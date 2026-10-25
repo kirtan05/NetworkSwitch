@@ -1,0 +1,6 @@
+10-25 21:51:52.727 I/ActivityTaskManager( 1535): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.supernova.networkswitch.debug/com.supernova.networkswitch.presentation.ui.activity.MainActivity}
+10-25 21:51:53.519 I/ActivityTaskManager( 1535): Displayed com.supernova.networkswitch.debug/com.supernova.networkswitch.presentation.ui.activity.MainActivity for user 0: +811ms
+10-25 21:51:56.394 I/adbd    (23012): adb shell: input tap 540 773
+10-25 21:51:56.598 I/ActivityTaskManager( 1535): START u0 {act=moe.shizuku.privileged.api.intent.action.REQUEST_PERMISSION flg=0x10080000 pkg=moe.shizuku.privileged.api cmp=moe.shizuku.privileged.api/moe.shizuku.manager.authorization.RequestPermissionActivity (has extras)}
+10-25 21:51:56.682 I/ActivityTaskManager( 1535): Displayed moe.shizuku.privileged.api/moe.shizuku.manager.authorization.RequestPermissionActivity for user 0: +84ms
+10-25 21:52:01.371 I/adbd    (23012): adb shell: input tap 540 1318

@@ -1,0 +1,5 @@
+10-25 21:51:00.474 I/ActivityTaskManager( 1535): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.supernova.networkswitch/.presentation.ui.activity.MainActivity}
+10-25 21:51:00.633 I/ActivityTaskManager( 1535): Displayed com.supernova.networkswitch/.presentation.ui.activity.MainActivity for user 0: +167ms
+10-25 21:51:04.068 I/adbd    (23012): adb shell: input tap 540 773
+10-25 21:51:06.832 I/adbd    (23012): adb shell: input tap 540 773
+10-25 21:51:09.592 I/adbd    (23012): adb shell: input tap 540 773
